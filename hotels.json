@@ -1,0 +1,310 @@
+[
+  {
+    "hotel_name": "The Oberoi",
+    "city_name": "Mumbai",
+    "star_ratings": 5,
+    "hotel_img": "https://lh3.googleusercontent.com/p/AF1QipNfci0slaT4UR3DstXAewcsYjR33kZ2pjgMnYZa=s1360-w1360-h1020",
+    "description": "Luxury hotel with exquisite amenities and breathtaking views of the Arabian Sea.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 10000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 15000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 20000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "Taj Mahal Palace",
+    "city_name": "Delhi",
+    "star_ratings": 5,
+    "hotel_img": "https://cdn.sanity.io/images/ocl5w36p/production/f7f538cd43aa55f041fbc4590927e62b8ac24939-3840x1860.jpg?w=480&auto=format&dpr=2",
+    "description": "Iconic hotel with a blend of rich history and modern luxury.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 12000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 17000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 22000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "Leela Palace",
+    "city_name": "Bangalore",
+    "star_ratings": 5,
+    "hotel_img": "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1398669048/Domestic%20Hotels/Hotels_Bangalore/The%20Leela%20Palace%20Bangalore/Overview.jpg",
+    "description": "Opulent hotel offering world-class services and facilities.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 11000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 16000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 21000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "Radisson Blu",
+    "city_name": "Chennai",
+    "star_ratings": 4,
+    "hotel_img": "radisson_blu_chennai.jpg",
+    "description": "Comfortable and stylish hotel located in the heart of Chennai.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 9000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 14000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 19000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "ITC Grand Bharat",
+    "city_name": "Gurugram",
+    "star_ratings": 5,
+    "hotel_img": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcgrandbharat-gurugram/images/overview/headmast-desktop/retreat-outdoor.png",
+    "description": "An opulent resort offering luxury and tranquility with world-class amenities.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 13000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 18000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 23000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "The Park",
+    "city_name": "Kolkata",
+    "star_ratings": 4,
+    "hotel_img": "https://gos3.ibcdn.com/af7e41849f0e11e9a4590242ac11000b.jpg",
+    "description": "Modern hotel with chic interiors and top-notch facilities in Kolkata.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 8000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 12000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 15000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "The Lalit",
+    "city_name": "Hyderabad",
+    "star_ratings": 5,
+    "hotel_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b3/96/b5/the-lalit-mumbai.jpg?w=700&h=-1&s=1",
+    "description": "Luxury hotel offering excellent services and modern comforts in Hyderabad.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 11000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 16000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 21000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "Radisson Blu Resort",
+    "city_name": "Goa",
+    "star_ratings": 5,
+    "hotel_img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495749436.jpg?k=e496e62c1703093df24bc7d001accaff7099a93c0271676eb212129b4fcf29e3&o=&hp=1",
+    "description": "A beachside resort offering luxury and relaxation with top amenities in Goa.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 12000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 17000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 22000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "Hotel Marina",
+    "city_name": "Visakhapatnam",
+    "star_ratings": 3,
+    "hotel_img": "https://www.hotelmarin.com/slide/mini-home-1.jpg",
+    "description": "Comfortable stay with scenic sea views and warm hospitality.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 6000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 9000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 12000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "The Gateway Hotel",
+    "city_name": "Pune",
+    "star_ratings": 4,
+    "hotel_img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fin%2Ftaj-residency-visakhapatnam.html&psig=AOvVaw3faxDTCy5e72AKe8YKmqQt&ust=1722058410732000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODE0ND9w4cDFQAAAAAdAAAAABAE",
+    "description": "A modern hotel offering great amenities and a central location.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 8500
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 12000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 15000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  },
+  {
+    "hotel_name": "JW Marriott",
+    "city_name": "Jaipur",
+    "star_ratings": 5,
+    "hotel_img": "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1479730410/Domestic%20Hotels/Hotels_Mumbai/JW%20Marriott%20Mumbai%20Sahar/Overview.jpg",
+    "description": "A luxury hotel offering a blend of traditional and modern comfort.",
+    "price_options": {
+      "Economy": {
+        "room_count": {
+          "1_room_2_adults": 14000
+        }
+      },
+      "Premium": {
+        "room_count": {
+          "1_room_2_adults": 19000
+        }
+      },
+      "Business": {
+        "room_count": {
+          "1_room_2_adults": 24000
+        }
+      }
+    },
+    "food": [
+      "Veg",
+      "NonVeg"
+    ]
+  }
+]

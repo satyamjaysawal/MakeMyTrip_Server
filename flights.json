@@ -1,0 +1,560 @@
+[
+  {
+    "from": "Delhi",
+    "from_airport": "Indira Gandhi International Airport",
+    "to": "Mumbai",
+    "to_airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_date": "2024-07-16",
+    "return_date": "2024-07-20",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 5000,
+      "Student": 4500,
+      "Senior Citizen": 4800,
+      "Armed Forces": 4700,
+      "Doctor and Nurses": 4600
+    }
+  },
+  {
+    "from": "Delhi",
+    "from_airport": "Indira Gandhi International Airport",
+    "to": "Mumbai",
+    "to_airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_date": "2024-07-16",
+    "return_date": "2024-07-20",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 8000,
+      "Student": 7500,
+      "Senior Citizen": 7800,
+      "Armed Forces": 7700,
+      "Doctor and Nurses": 7600
+    }
+  },
+  {
+    "from": "Delhi",
+    "from_airport": "Indira Gandhi International Airport",
+    "to": "Mumbai",
+    "to_airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_date": "2024-07-16",
+    "return_date": "2024-07-20",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 12000,
+      "Student": 11000,
+      "Senior Citizen": 11500,
+      "Armed Forces": 11300,
+      "Doctor and Nurses": 11200
+    }
+  },
+  {
+    "from": "Amritsar",
+    "from_airport": "Sri Guru Ram Dass Jee International Airport",
+    "to": "Calicut",
+    "to_airport": "Calicut International Airport",
+    "departure_date": "2024-07-17",
+    "return_date": "2024-07-21",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 6500,
+      "Student": 6200,
+      "Senior Citizen": 6400,
+      "Armed Forces": 6300,
+      "Doctor and Nurses": 6250
+    }
+  },
+  {
+    "from": "Delhi",
+    "from_airport": "Indira Gandhi International Airport",
+    "to": "Mumbai",
+    "to_airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_date": "2024-07-23",
+    "return_date": "2024-07-27",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 5000,
+      "Student": 4500,
+      "Senior Citizen": 4800,
+      "Armed Forces": 4700,
+      "Doctor and Nurses": 4600
+    }
+  },
+  {
+    "from": "Delhi",
+    "from_airport": "Indira Gandhi International Airport",
+    "to": "Mumbai",
+    "to_airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_date": "2024-07-23",
+    "return_date": "2024-07-27",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 8000,
+      "Student": 7500,
+      "Senior Citizen": 7800,
+      "Armed Forces": 7700,
+      "Doctor and Nurses": 7600
+    }
+  },
+  {
+    "from": "Delhi",
+    "from_airport": "Indira Gandhi International Airport",
+    "to": "Mumbai",
+    "to_airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "departure_date": "2024-07-23",
+    "return_date": "2024-07-27",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 12000,
+      "Student": 11000,
+      "Senior Citizen": 11500,
+      "Armed Forces": 11300,
+      "Doctor and Nurses": 11200
+    }
+  },
+  {
+    "from": "Amritsar",
+    "from_airport": "Sri Guru Ram Dass Jee International Airport",
+    "to": "Calicut",
+    "to_airport": "Calicut International Airport",
+    "departure_date": "2024-07-23",
+    "return_date": "2024-07-27",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 6500,
+      "Student": 6200,
+      "Senior Citizen": 6400,
+      "Armed Forces": 6300,
+      "Doctor and Nurses": 6250
+    }
+  },
+  {
+    "from": "Amritsar",
+    "from_airport": "Sri Guru Ram Dass Jee International Airport",
+    "to": "Calicut",
+    "to_airport": "Calicut International Airport",
+    "departure_date": "2024-07-28",
+    "return_date": "2024-07-31",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 9500,
+      "Student": 9200,
+      "Senior Citizen": 9400,
+      "Armed Forces": 9300,
+      "Doctor and Nurses": 9250
+    }
+  },
+  {
+    "from": "Amritsar",
+    "from_airport": "Sri Guru Ram Dass Jee International Airport",
+    "to": "Calicut",
+    "to_airport": "Calicut International Airport",
+    "departure_date": "2024-07-29",
+    "return_date": "2024-07-31",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 13500,
+      "Student": 13000,
+      "Senior Citizen": 13200,
+      "Armed Forces": 13100,
+      "Doctor and Nurses": 13050
+    }
+  },
+  {
+    "from": "Mangaluru",
+    "from_airport": "Mangaluru International Airport",
+    "to": "Bhubaneswar",
+    "to_airport": "Biju Patnaik International Airport",
+    "departure_date": "2024-07-17",
+    "return_date": "2024-07-21",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 8500,
+      "Student": 8000,
+      "Senior Citizen": 8300,
+      "Armed Forces": 8200,
+      "Doctor and Nurses": 8100
+    }
+  },
+  {
+    "from": "Imphal",
+    "from_airport": "Bir Tikendrajit International Airport",
+    "to": "Bagdogra",
+    "to_airport": "Bagdogra International Airport",
+    "departure_date": "2024-07-18",
+    "return_date": "2024-07-22",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 14000,
+      "Student": 13000,
+      "Senior Citizen": 13500,
+      "Armed Forces": 13300,
+      "Doctor and Nurses": 13200
+    }
+  },
+  {
+    "from": "Visakhapatnam",
+    "from_airport": "Visakhapatnam International Airport",
+    "to": "Vijayawada",
+    "to_airport": "Vijayawada International Airport",
+    "departure_date": "2024-07-19",
+    "return_date": "2024-07-23",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 3500,
+      "Student": 3200,
+      "Senior Citizen": 3400,
+      "Armed Forces": 3300,
+      "Doctor and Nurses": 3250
+    }
+  },
+  {
+    "from": "Raipur",
+    "from_airport": "Swami Vivekananda International Airport",
+    "to": "Aurangabad",
+    "to_airport": "Aurangabad Airport",
+    "departure_date": "2024-07-20",
+    "return_date": "2024-07-24",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 7500,
+      "Student": 7000,
+      "Senior Citizen": 7300,
+      "Armed Forces": 7200,
+      "Doctor and Nurses": 7100
+    }
+  },
+  {
+    "from": "Kandla",
+    "from_airport": "Kandla Airport",
+    "to": "Jharsuguda",
+    "to_airport": "Veer Surendra Sai Airport",
+    "departure_date": "2024-07-21",
+    "return_date": "2024-07-25",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 9500,
+      "Student": 9000,
+      "Senior Citizen": 9300,
+      "Armed Forces": 9200,
+      "Doctor and Nurses": 9100
+    }
+  },
+  {
+    "from": "Chandigarh",
+    "from_airport": "Chandigarh International Airport",
+    "to": "Tiruchirappalli",
+    "to_airport": "Tiruchirappalli International Airport",
+    "departure_date": "2024-07-22",
+    "return_date": "2024-07-26",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 5500,
+      "Student": 5200,
+      "Senior Citizen": 5400,
+      "Armed Forces": 5300,
+      "Doctor and Nurses": 5250
+    }
+  },
+  {
+    "from": "Port Blair",
+    "from_airport": "Veer Savarkar International Airport",
+    "to": "Coimbatore",
+    "to_airport": "Coimbatore International Airport",
+    "departure_date": "2024-07-23",
+    "return_date": "2024-07-27",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 7000,
+      "Student": 6500,
+      "Senior Citizen": 6800,
+      "Armed Forces": 6700,
+      "Doctor and Nurses": 6600
+    }
+  },
+  {
+    "from": "Gaya",
+    "from_airport": "Gaya International Airport",
+    "to": "Kannur",
+    "to_airport": "Kannur International Airport",
+    "departure_date": "2024-07-24",
+    "return_date": "2024-07-28",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 14000,
+      "Student": 13000,
+      "Senior Citizen": 13500,
+      "Armed Forces": 13300,
+      "Doctor and Nurses": 13200
+    }
+  },
+  {
+    "from": "Pune",
+    "from_airport": "Pune International Airport",
+    "to": "Chandigarh",
+    "to_airport": "Shaheed Bhagat Singh International Airport",
+    "departure_date": "2024-07-25",
+    "return_date": "2024-07-29",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 4500,
+      "Student": 4200,
+      "Senior Citizen": 4400,
+      "Armed Forces": 4300,
+      "Doctor and Nurses": 4250
+    }
+  },
+  {
+    "from": "Bhopal",
+    "from_airport": "Bhopal Airport",
+    "to": "Tirupati",
+    "to_airport": "Tirupati International Airport",
+    "departure_date": "2024-07-26",
+    "return_date": "2024-07-30",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 7500,
+      "Student": 7000,
+      "Senior Citizen": 7300,
+      "Armed Forces": 7200,
+      "Doctor and Nurses": 7100
+    }
+  },
+  {
+    "from": "Porbandar",
+    "from_airport": "Porbandar Airport",
+    "to": "Shirdi",
+    "to_airport": "Shirdi International Airport",
+    "departure_date": "2024-07-27",
+    "return_date": "2024-07-31",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 9500,
+      "Student": 9000,
+      "Senior Citizen": 9300,
+      "Armed Forces": 9200,
+      "Doctor and Nurses": 9100
+    }
+  },
+  {
+    "from": "Balurghat",
+    "from_airport": "Balurghat Airport",
+    "to": "Tezu",
+    "to_airport": "Tezu Airport",
+    "departure_date": "2024-07-28",
+    "return_date": "2024-08-01",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 3500,
+      "Student": 3200,
+      "Senior Citizen": 3400,
+      "Armed Forces": 3300,
+      "Doctor and Nurses": 3250
+    }
+  },
+  {
+    "from": "Goa",
+    "from_airport": "Goa International Airport",
+    "to": "Varanasi",
+    "to_airport": "Lal Bahadur Shastri International Airport",
+    "departure_date": "2024-07-29",
+    "return_date": "2024-08-02",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 7000,
+      "Student": 6500,
+      "Senior Citizen": 6800,
+      "Armed Forces": 6700,
+      "Doctor and Nurses": 6600
+    }
+  },
+  {
+    "from": "Indore",
+    "from_airport": "Devi Ahilyabai Holkar Airport",
+    "to": "Madurai",
+    "to_airport": "Madurai Airport",
+    "departure_date": "2024-07-30",
+    "return_date": "2024-08-03",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 14000,
+      "Student": 13000,
+      "Senior Citizen": 13500,
+      "Armed Forces": 13300,
+      "Doctor and Nurses": 13200
+    }
+  },
+  {
+    "from": "Surat",
+    "from_airport": "Surat International Airport",
+    "to": "Thiruvananthapuram",
+    "to_airport": "Thiruvananthapuram International Airport",
+    "departure_date": "2024-07-31",
+    "return_date": "2024-08-04",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 5500,
+      "Student": 5200,
+      "Senior Citizen": 5400,
+      "Armed Forces": 5300,
+      "Doctor and Nurses": 5250
+    }
+  },
+  {
+    "from": "Nashik",
+    "from_airport": "Nashik International Airport",
+    "to": "Patna",
+    "to_airport": "Jayprakash Narayan International Airport",
+    "departure_date": "2024-08-01",
+    "return_date": "2024-08-05",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 7500,
+      "Student": 7000,
+      "Senior Citizen": 7300,
+      "Armed Forces": 7200,
+      "Doctor and Nurses": 7100
+    }
+  },
+  {
+    "from": "Agartala",
+    "from_airport": "Maharaja Bir Bikram Airport",
+    "to": "Kushinagar",
+    "to_airport": "Kushinagar Airport",
+    "departure_date": "2024-08-02",
+    "return_date": "2024-08-06",
+    "travellers": {
+      "class": "Business"
+    },
+    "special_fare_option": {
+      "Regular": 9500,
+      "Student": 9000,
+      "Senior Citizen": 9300,
+      "Armed Forces": 9200,
+      "Doctor and Nurses": 9100
+    }
+  },
+  {
+    "from": "Satna",
+    "from_airport": "Bharhut Airport",
+    "to": "Hisar",
+    "to_airport": "Hisar Airport",
+    "departure_date": "2024-08-03",
+    "return_date": "2024-08-07",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 3500,
+      "Student": 3200,
+      "Senior Citizen": 3400,
+      "Armed Forces": 3300,
+      "Doctor and Nurses": 3250
+    }
+  },
+  {
+    "from": "Rajkot",
+    "from_airport": "Rajkot (Hirasar) International Airport",
+    "to": "Delhi",
+    "to_airport": "Indira Gandhi International Airport",
+    "departure_date": "2024-08-04",
+    "return_date": "2024-08-08",
+    "travellers": {
+      "class": "Premium"
+    },
+    "special_fare_option": {
+      "Regular": 7000,
+      "Student": 6500,
+      "Senior Citizen": 6800,
+      "Armed Forces": 6700,
+      "Doctor and Nurses": 6600
+    }
+  },
+  {
+    "from": "Varanasi",
+    "from_airport": "Lal Bahadur Shastri Airport",
+    "to": "Delhi",
+    "to_airport": "Indira Gandhi International Airport",
+    "departure_date": "2024-07-21",
+    "return_date": "2024-07-31",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 6000,
+      "Student": 5200,
+      "Senior Citizen": 5500,
+      "Armed Forces": 5600,
+      "Doctor and Nurses": 5700
+    }
+  },
+  {
+    "from": "Mumbai",
+    "from_airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "to": "Delhi",
+    "to_airport": "Indira Gandhi International Airport",
+    "departure_date": "2024-07-27",
+    "return_date": "2024-07-31",
+    "travellers": {
+      "class": "Economy"
+    },
+    "special_fare_option": {
+      "Regular": 6000,
+      "Student": 5500,
+      "Senior Citizen": 0,
+      "Armed Forces": 0,
+      "Doctor and Nurses": 0
+    }
+  }
+]
