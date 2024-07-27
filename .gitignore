@@ -86,3 +86,5 @@ yarn-debug.log*
 
 # Ignore Firebase configuration
 .firebase/
+
+.vercel
