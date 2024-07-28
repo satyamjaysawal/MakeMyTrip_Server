@@ -18,12 +18,12 @@ const Passenger = require('./Passenger');
 const app = express();
 
 // Configure CORS to allow requests from the frontend
-const corsOptions = {
-  origin: 'http://localhost:3000/', // Replace with your frontend URL
-  optionsSuccessStatus: 200
-};
+// const corsOptions = {
+//   origin: 'http://localhost:3000/', // Replace with your frontend URL
+//   optionsSuccessStatus: 200
+// };
 
-app.use(cors(corsOptions));
+app.use(cors());
 app.use(express.json());
 app.use(bodyParser.json());
 
