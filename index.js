@@ -17,8 +17,13 @@ const Passenger = require('./Passenger');
 
 const app = express();
 
-// Middleware
-app.use(cors());
+// Configure CORS to allow requests from the frontend
+const corsOptions = {
+  origin: 'http://localhost:3000/', // Replace with your frontend URL
+  optionsSuccessStatus: 200
+};
+
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(bodyParser.json());
 
@@ -147,7 +152,6 @@ app.get('/flights', (req, res) => {
   });
 });
 
-
 // Add new flight
 app.post('/flights', (req, res) => {
   const newFlight = req.body;
@@ -254,7 +258,6 @@ app.post('/send-mail', async (req, res) => {
   }
 });
 
-
 // Email sending endpoint for hotel bookings
 app.post('/send-hotel-mail', async (req, res) => {
   const { email, customerName, hotel, roomClass, roomCount, startDate, endDate, numberOfDays, totalPrice } = req.body;
@@ -293,7 +296,6 @@ app.post('/send-hotel-mail', async (req, res) => {
     res.status(500).send({ error: 'Failed to send email' });
   }
 });
-
 
 // Default route
 app.get('/', (req, res) => {
