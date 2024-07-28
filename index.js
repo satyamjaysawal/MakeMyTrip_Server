@@ -229,7 +229,7 @@ app.post('/send-mail', async (req, res) => {
 
   try {
     let transporter = nodemailer.createTransport({
-      host: 'smtp.gmail.com',
+      host: process.env.EMAIL_HOST,
       port: 587,
       secure: false,
       auth: {
