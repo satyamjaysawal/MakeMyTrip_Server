@@ -35,7 +35,7 @@ Update your package.json to include the dev script using nodemon:
 
 PORT=5000   
 
-JWT_SECRET=myverysecretkey123     
+JWT_SECRET=  
 
 RAZORPAY_KEY_ID=    
 RAZORPAY_KEY_SECRET=     
